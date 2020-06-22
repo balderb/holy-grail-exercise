@@ -1,2 +1,2 @@
-# holy-grail-exercise
-holy-grail exercise
+# Holy-grail-exercise
+Holy-grail exercise
